@@ -1,1 +1,5 @@
+
 editing b.txt from car
+=======
+editing b.txt from bike
+>>>>>>> bike
